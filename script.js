@@ -1,5 +1,4 @@
-//window.alert("Esse layout não foi criado por mim.");
-
+window.alert("Esse layout não foi criado por mim. Créditos no rodapé");
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
