@@ -43,7 +43,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["aos pulmões", "ao coração", "ao cerébro", "a vida"],
+        strings: ["aos pulmões", "ao coração", "ao cérebro", "a vida"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
